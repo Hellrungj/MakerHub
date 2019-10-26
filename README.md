@@ -8,6 +8,7 @@ MakerHub is an app that pinpoints local maker spaces, info for fee/registration 
 
 ## Data and schema
 Still designing schema models
+![Porject DB Schema](https://github.com/Hellrungj/project-flask-react/blob/master/MakerHub%20DB.png)
 
 ## Wireframing / UX
 Figma Wireframe Model
