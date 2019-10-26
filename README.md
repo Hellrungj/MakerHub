@@ -1,7 +1,7 @@
 # project-flask-react A.K.A MakerHub (Still working on the name)
 
 ## Introduction
-The point of this bare-bones beta application is to learn the basics of react and fireabse build web application
+The point of this MVP application is to learn the basics of react and fireabse build web application
 
 ## About MakerHub
 MakerHub is an app that pinpoints local maker spaces, info for fee/registration and related events at the locations. 
