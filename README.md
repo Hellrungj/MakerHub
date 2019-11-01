@@ -1,4 +1,4 @@
-# project-flask-react A.K.A MakerHub (Still working on the name)
+# MakerHub (Still working on the name)
 
 ## Introduction
 The point of this MVP application is to learn the basics of react and fireabse build web application
